@@ -1,0 +1,5 @@
+# Equations
+
+## idk
+
+### Newtons laws
