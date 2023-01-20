@@ -1,4 +1,4 @@
-# Equations & Theorems
+# Equations and Theorems
 
 ## Essential Theorems of the Physical World
 
