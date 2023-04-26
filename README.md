@@ -271,12 +271,12 @@ ___
 
 Newtons second law for rotational motion:
 $$\alpha F {F \over m}$$
-$$\alpha = {rF \over mr^2} = {\tau \over \Iota}$$
+$$\alpha = {rF \over mr^2} = {\tau \over I}$$
 
 or equivalently,
 
 Newtons second law for rotational motion:
-$$\tau = \Iota \alpha$$
+$$\tau = I \alpha$$
 
 ### Dynamic Applications of torque
 
@@ -285,7 +285,7 @@ When dealing with systems that have both rotating parts and translating parts, w
 ### Angular momentum
 
 Definition of angular momentum, $L$:
-$$L = \Iota \omega$$
+$$L = I \omega$$
 
 SI Unit: $\rm kg \times m^2 / s$
 
@@ -297,9 +297,9 @@ $$L = rp \sin{\theta} = rmv \sin{\theta}$$
 
 SI Unit: $\rm kg \times m^2 / s$
 
-$${\Delta L \over \Delta t} = \Iota {\Delta \omega \over \Delta t} = \Iota \alpha$$
+$${\Delta L \over \Delta t} = I {\Delta \omega \over \Delta t} = I \alpha$$
 
-$$\tau = \Iota \alpha  = {\Delta L \over \Delta t}$$
+$$\tau = I \alpha  = {\Delta L \over \Delta t}$$
 
 ### Rotational work and power
 
