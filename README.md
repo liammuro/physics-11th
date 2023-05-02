@@ -67,7 +67,7 @@ strings and springs
 
 the tension in a real rope will vary along its length, due to
 
-an ideal pully is one that simply changes the direction of the tension
+an ideal pulley is one that simply changes the direction of the tension
 
 Kooke's law for springs states that the force increases with the amount thr spring is stretched or compressed
 
@@ -83,7 +83,7 @@ this allows for the calculation of unknown forces
 
 ### Connected Objects
 
-- When Forces are extetes on connected objects, their accelerations are the same
+- When Forces are exerted on connected objects, their accelerations are the same
 - If there are two objects connected by a string and we know the force and the masses, we can find the acceleration and tension
 
 When there is a pulley, it is easiest to have the coordinate system follow the string
@@ -309,3 +309,45 @@ Work Done by Torque:
 $$W = \tau \Delta \theta$$
 
 The work energy theorem applies as usual.
+
+___
+
+## Chapter 12
+
+### Tuesday May 02, 2023
+
+### Gravity
+
+#### Kepler's Laws
+
+1. Planets follow elliptical orbits, with the Sun at one focus of the ellipse.
+2. As a planet moves in its orbit, it sweeps out an equal amount of area in an equal amount of time.
+3. The period, $T$, of a planet increases as its mean distance from the Sun, $r$, raised to the $3/2$ power.
+$$T = (\text{constant})r^{3/2}$$
+
+The constant varies depending on the mass being orbited. This can be shown to be a consequence of the inverse square form of the gravitational force.
+
+$$T^2 = {4 \pi ^2 \over GM} a^3$$
+$$T^2 = a^3$$
+
+#### Gravitational Potential Energy
+
+Gravitational potential energy of an object of mass $m$ a distance $r$ from Earth's center:
+$$U = -G {m M_E \over r}$$
+
+Very close to the Earth's surface, the gravitational potential energy increases linearly
+
+#### Energy Conservation
+
+Total mechanical energy of an object of mass $m$ a distance $r$ from the center of the Earth:
+
+$$E = K + U = {1 \over 2} m v^2 - G {m M_E \over r}$$
+
+Escape speed: the initial upward speed a projectile must have in order to escape from the Earth's Gravity:
+
+$$v_e = \sqrt{{2 m M_E \over R_E}} = 11200 \text{ m/s} \approx 25000 \text{ mi/h}$$
+
+Gravity Formulae:
+
+Force of gravity between two point masses:
+$$F = G {m_1 m_2 \over r^2}$$
