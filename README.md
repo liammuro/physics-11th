@@ -312,7 +312,7 @@ The work energy theorem applies as usual.
 
 ___
 
-## Chapter 12
+## Chapter 12: Gravity
 
 ### Tuesday May 02, 2023
 
@@ -351,3 +351,87 @@ Gravity Formulae:
 
 Force of gravity between two point masses:
 $$F = G {m_1 m_2 \over r^2}$$
+
+___
+
+## Chapter 14: Waves and Sound
+
+### Tuesday May 09, 2023
+
+Types of waves
+
+A wave is a disturbance that propagates from one place to another
+
+The easiest type of wave to  visualize is a transverse wave, where the displacement if the medium is perpendicular to the direction of motion of the wave.
+
+In a  longitudinal wave, the displacement is along the direction of wave motion.
+
+Wavelength $\lambda$: distance over which wave repeats
+
+Period $T$: time for one wavelength to pass a given point
+
+Frequency $f$: $f = 1/T$
+
+Speed of a wave:
+
+$$v = {\text{distance} \over \text{time}} = {\lambda \over T} = \lambda f$$
+
+Definition of Mass per Length, $\mu$
+
+$$\mu = \text{mass per length} = m/L$$
+
+Speed of a wave on a string, $v$
+
+$$v = \sqrt{F \over \mu}$$
+
+When a wave reaches the end of a string, it will be reflected. If the end is fixed, the reflected wave will be inverted.
+
+Harmonic wave functions
+
+Since the wave has the same pattern at $x + \lambda$ as it does at $x$, the wave must be of the form
+
+$$y(x) = A \cos{{2 \pi \over \lambda} x }$$
+
+Also as the wave propagates in time, the peak moves as
+
+$$x = \lambda {t \over T}$$
+
+Combining yields the dull wave equationL
+
+$$y(x,t) = A \cos{[{2 \pi \over \lambda} (x - \lambda {t \over T})]}$$
+
+$$y(x,t) = A \cos({{2 \pi \over \lambda} x - {2 \pi \over T} t)}$$
+
+Ina sound wave, the density and pressure of the air (or other medium carrying the sound) are the quantities that oscillate.
+
+Sound intensity
+
+the intensity of a sound is the amount of energy that passes through a given area in a given time
+
+$$I = {E \over At}$$
+
+Expressed in terms of power:
+
+Definition of intensity:
+
+$$I = {P \over A}$$
+
+SI unit: $\text{W} / \text{m}^2$
+
+Sound intensity from a point source will decrease as the square of the distance.
+
+Intensity with distance, from a point source:
+
+$$I = {P \over 4 \pi r^2}$$
+
+SI unit: $\text{W} / \text{m}^2$
+
+When you listen to a variety of sounds, a sound that seems twice as loud as loud as another is ten times more intense. Therefore, we use a logarithmic scale to define intensity values.
+
+Definition of intensity level, $\beta$
+$$\beta = 10 \log(I/I_0)$$
+SI unit: dimensionless
+
+Here, $I_0$ is the faintest sound that can be heard:
+
+$$I_0 = 10^{-12} \text{ W} / \text{m}^2$$
