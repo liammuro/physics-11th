@@ -435,3 +435,29 @@ SI unit: dimensionless
 Here, $I_0$ is the faintest sound that can be heard:
 
 $$I_0 = 10^{-12} \text{ W} / \text{m}^2$$
+
+### Tuesday May 16, 2023
+
+Standing waves
+
+Standing waves can also be excited in columns of air, such as soda bottles, woodwind instruments, or organ pipes.
+
+One end is a node, $\text{N}$, and the other end is an antinode, $\text{A}$.
+
+For a tube with one open end, the fundamental wavelength is 4 times the length of the pipe, and only odd numbered harmonics appear.
+
+If the tube is open on both ends, both ends are antinodes, and the sequence of harmonics is the same as that on a string.
+
+Beats
+
+Beats are an interference pattern in time, rather than in space. If two sounds are very close in frequency, their sum also has a periodic time dependance, although with a much lower frequency.
+
+Beat frequency is the absolute value of the difference between two frequencies occurring simultaneously. This represents the frequency of successive maximum intensities of beats.
+
+$$f_{\text{beat}} = |f_1-f_2|$$
+
+Speed of a wave on a string:
+$$v = \sqrt{F\over \mu}$$
+
+Wave function for a harmonic wave: \
+$$y(x,t) = A \cos({2 \pi \over \lambda} x - {2 \pi \over T} t)$$
