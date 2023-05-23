@@ -164,11 +164,11 @@ Where: $K = \frac{1}{2}mv^2$
 
 ### Power
 
-- Power is a measure of the rate at which work is done\
-$P = \cfrac{W}{t}$
-SI unit: J/s = watt, W\
-1 horsepower = 1 hp = 746 W\
-$P = \frac{fD}{t} = F(\frac{d}{t}) = Fv$
+- Power is a measure of the rate at which work is done
+$$P = \cfrac{W}{t}$$
+SI unit: J/s = watt, W
+1 horsepower = 1 hp = 746 W
+$$P = \frac{fD}{t} = F \left( \frac{d}{t} \right) = Fv$$
 
 ___
 
@@ -241,8 +241,8 @@ We can also write kinetic energy as ${1 \over 2}I \omega^2$, where $I$, the mome
 The total kinetic energy of a rolling object is the sum of its linear and rotational kinetic energy
 
 $$K = {1 \over 2} mv^2  + {1 \over 2} I \omega^2$$
-$$=  {1 \over 2} mv^2  + {1 \over 2} I({v \over r})^2$$
-$$= {1 \over 2} mv^2 (1+ {I \over mr})^2 $$
+$$=  {1 \over 2} mv^2  + {1 \over 2} I \left ({v \over r} \right)^2$$
+$$= {1 \over 2} mv^2 \left( 1+ {I \over mr} \right)^2 $$
 
 ## Chapter 11
 
@@ -398,9 +398,9 @@ $$x = \lambda {t \over T}$$
 
 Combining yields the dull wave equationL
 
-$$y(x,t) = A \cos{[{2 \pi \over \lambda} (x - \lambda {t \over T})]}$$
+$$y(x,t) = A \cos{ \left[ {2 \pi \over \lambda} \left( x - \lambda {t \over T} \right) \right]}$$
 
-$$y(x,t) = A \cos({{2 \pi \over \lambda} x - {2 \pi \over T} t)}$$
+$$y(x,t) = A \cos{ \left( {2 \pi \over \lambda} x - {2 \pi \over T} t \right) }$$
 
 Ina sound wave, the density and pressure of the air (or other medium carrying the sound) are the quantities that oscillate.
 
@@ -459,5 +459,47 @@ $$f_{\text{beat}} = |f_1-f_2|$$
 Speed of a wave on a string:
 $$v = \sqrt{F\over \mu}$$
 
-Wave function for a harmonic wave: \
-$$y(x,t) = A \cos({2 \pi \over \lambda} x - {2 \pi \over T} t)$$
+Wave function for a harmonic wave:
+$$y(x,t) = A \cos \left( {2 \pi \over \lambda} x - {2 \pi \over T} \right) \$$
+
+___
+
+## Chapter 19: Electricity
+
+### Tuesday May 23, 2023
+
+$I =$ Current
+
+$V =$ potential difference
+
+$R =$ depends on material
+
+Wires present some resistance to the motion of electrons. Ohm's law relates the voltage to the current:\
+Ohm's Law:\
+$V = IR$\
+SI unit: volt, $\text{V}$
+
+$$R = {V \over I}$$
+
+$$\Omega$$
+
+Definition of resistivity, $p$
+$$R = p \left( {L \over A  }\right)$$
+
+When a charge moves across a potential difference, its potential energy changes:
+$$\Delta U - (\Delta Q) V$$
+
+Electrical Power:\
+$P = IV$\
+SI unit: watt, $\text{W}$
+
+$$P = IV = I(R) = I^2 R$$
+
+Equivalent resistance for resistors in series:
+$$R_{\text{eq}} = R_1 + R_2 + R_3 + \dots = \sum{R}$$
+SI unit: ohm, $\Omega$
+
+Equivalent resistance for resistors in parallel:
+$${1 \over R_{\text{eq}}} = {1 \over R_1} + {1 \over R_2} + {1 \over R_3} + \dots = \sum{1 \over R}$$
+SI unit: ohm, $\Omega$\
+Relation due to potential difference across parallel resistors being the same for each.
