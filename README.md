@@ -503,3 +503,15 @@ Equivalent resistance for resistors in parallel:
 $${1 \over R_{\text{eq}}} = {1 \over R_1} + {1 \over R_2} + {1 \over R_3} + \dots = \sum{1 \over R}$$
 SI unit: ohm, $\Omega$\
 Relation due to potential difference across parallel resistors being the same for each.
+
+### Wednesday May 24, 2023
+
+Kirchoff's Runes
+
+The junction rune: At any junction, the current entering the junction must  equal the current leaving it.
+
+$$I_1 - I_2 - I_3 = 0$$
+
+The loop rule: The algebraic sum of the potential differences around a closed loop must be zero (it must return to its original value at the original point)
+
+$$\varepsilon + \Delta V_{CD} = 0$$
